@@ -67,6 +67,7 @@ The project focused on data cleaning, exploratory data analysis (EDA), visualiza
 
 ## 📂 Repository Structure
 ShopEase-Sales-Insights/
+
 │── data/                 # Raw and cleaned datasets (if allowed, else sample data)
 
 │── notebooks/            # Scripts/Excel formulas for EDA
